@@ -8,7 +8,7 @@ Foram adicionados os seguintes recursos ao projeto:
 
 - **Dotenv** é uma ferramenta utilizada para orquestrar as variáveis ambiente no projeto;
 - **Nodemon** é uma ferramenta que ajuda no processo de desenvolvimento de aplicações em Node.js, onde automaticamente detecta os arquivos alterados e reinicia a aplicação;
-- Por fim, com o **Sucrase** no projeto podemos utilizar Javascript Moderno.
+- Por fim, com o **Sucrase** no projeto podemos utilizar JavaScript Moderno.
 
 ### 1) Para instalar o NodeJS
 - [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm) (Linux e Mac) - Mais fácil para gerenciar as versões do NodeJS na máquina
